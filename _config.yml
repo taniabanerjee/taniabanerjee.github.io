@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Tania Banerjee"
-  avatar           : "/images/tania3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/tania3.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Research Scientist"
   location         : "Gainesville, FL, US"
   email            :
