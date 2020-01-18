@@ -5,4 +5,4 @@ permalink: /about/
   #image: "/images/NYCwaterfront.jpg"
 ---
 
-I'm an assistant research scientist at the University of Florida. My research interests are high performance computing, algorithms and data structures, data mining and machine learning.
+I'm an assistant research scientist at the University of Florida. My research interests are high performance computing, algorithms and data structures, data mining, machine learning and data visualization.
