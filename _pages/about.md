@@ -37,7 +37,9 @@ My group develops computational methods for:
 ## Contact
 
 Department of Information Science Technology
+
 University of Houston
-Houston, Texas
+
+Sugar Land, Texas
 
 Email: [tbanerjee@uh.edu](mailto:tbanerjee@uh.edu)
