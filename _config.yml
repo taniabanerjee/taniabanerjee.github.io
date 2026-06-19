@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/tania8.jpeg"
+  avatar           : "tania8.jpeg"
   name             : "Tania Banerjee"
-  pronouns         : "she" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "Houston, Texas"
   employer         : "University of Houston"
