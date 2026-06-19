@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Tania Banerjee"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tania Banerjee"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,14 +23,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  avatar           : "tania8.jpeg"
+  name             : "Tania Banerjee"
+  pronouns         : "she" # example: "she/her"  
+  bio              : "Assistant Professor, University of Houston"
+  location         : "Houston, Texas"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://taniabanerjee.github.io" # URL
+  baseurl          : "/academicpages-test"
+  email            : "taniabanerjee@uh.edu" 
 
   # Academic websites
   academia         : # URL
