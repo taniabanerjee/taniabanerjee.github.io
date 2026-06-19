@@ -26,9 +26,9 @@ author:
   avatar           : "images/tania8.jpeg"
   name             : "Tania Banerjee"
   pronouns         : "she" # example: "she/her"  
-  bio              : "Assistant Professor, University of Houston"
+  bio              : "Assistant Professor"
   location         : "Houston, Texas"
-  employer         : "Red Brick University"
+  employer         : "University of Houston"
   uri              : "https://taniabanerjee.github.io" # URL
   baseurl          : "/academicpages-test"
   email            : "taniabanerjee@uh.edu" 
