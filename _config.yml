@@ -84,12 +84,18 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  computational-biology:
+    title: "Computational Biology and Spatial Omics"
+  machine-learning:
+    title: "Machine Learning and AI"
+  scientific-computing:
+    title: "Scientific Computing and HPC"
+  transportation:
+    title: "Intelligent Transportation Systems"
   books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: "Books"
+  patents:
+    title: "Patents"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
